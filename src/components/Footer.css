@@ -1,0 +1,14 @@
+.footer-wrapper{
+   
+    width: 100%;
+    min-height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/src//img/Group\ 13484.png);
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}

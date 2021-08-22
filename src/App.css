@@ -1,0 +1,18 @@
+* {
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
+  margin:0 ;
+  padding:0 ;
+  box-sizing: border-box;
+  
+}
+.rights{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #333333;
+  color: #979797;
+  bottom: 0;
+  width: 100%;
+  padding: 0.6rem;
+ 
+}
