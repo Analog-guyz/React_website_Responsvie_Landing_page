@@ -40,7 +40,7 @@ const Cards = () => {
                         <h2>تجزیه و تحلیل وب</h2>
                         <p>اینجا می‌توانید کمی در مورد خودتون صحبت و توضیح دهید که چه خدماتی ارائه می‌دهید</p>
                         <div className="card-desc-button-wrapper">
-                            <Button bg_Color="#EDF1FF" text_color="#5C3FFB" paddings="0.6rem 1.8rem" borders="none" text="SEO" font_size="0.85rem" radius="0"></Button>
+                            <Button bg_Color="#EDF1FF" text_color="#5C3FFB" paddings="0.6rem 1.8rem" borders="none" text="SEO" font_size="0.85rem" radius="0" ></Button>
                             <Button bg_Color="#EDF1FF" text_color="#5C3FFB" paddings="0.6rem 1.25rem" borders="none" text="Marketing" font_size="0.85rem" radius="0"></Button>
                         </div>
                     </div>

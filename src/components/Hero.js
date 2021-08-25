@@ -1,11 +1,12 @@
 import "./Hero.css"
 import Button from './Button'
 import Logo from '../img/logo.png'
+import bg_img from '../img/Group 13483.png'
 
 
 const Hero = () => {
     return (
-        <div className="hero-wrapper">
+        <div className="hero-wrapper"  style={{ backgroundImage: `url(${bg_img})` }}>
             <div className="hero-logo-wrapper">
                 <img src={Logo}></img>
 

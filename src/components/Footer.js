@@ -1,10 +1,10 @@
 import "./Footer.css"
 import Button from './Button'
-
+import footer_img from '../img/Group 13484.png'
 const Footer = () => {
     return (
         <>
-        <div className="footer-wrapper">
+        <div className="footer-wrapper"  style={{ backgroundImage: `url(${footer_img})` }}>
             
             <div className="hero-title-wrapper">
                 <h1>به راحتی خدمات مورد نیاز خودت رو پیدا کن</h1>
