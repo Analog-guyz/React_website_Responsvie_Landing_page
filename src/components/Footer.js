@@ -1,6 +1,6 @@
 import "./Footer.css"
 import Button from './Button'
-import footer_img from '../img/Group 13484.png'
+import footer_img from '../img/Group_13484.png'
 const Footer = () => {
     return (
         <>

@@ -4,6 +4,7 @@ import './App.css';
 import Media from './components/Media'
 import Comments from './components/Comments';
 import Footer from './components/Footer'
+
 function App() {
   return (
     <>

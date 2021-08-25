@@ -1,7 +1,7 @@
 import "./Hero.css"
 import Button from './Button'
 import Logo from '../img/logo.png'
-import bg_img from '../img/Group 13483.png'
+import bg_img from '../img/Group_13483.png'
 
 
 const Hero = () => {
